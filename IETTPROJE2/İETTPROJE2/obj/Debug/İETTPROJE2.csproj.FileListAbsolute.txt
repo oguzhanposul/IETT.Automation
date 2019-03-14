@@ -1,0 +1,12 @@
+C:\Users\oguz-\Desktop\İETT PROJE\İETTPROJE2\İETTPROJE2\bin\Debug\İETTPROJE2.exe.config
+C:\Users\oguz-\Desktop\İETT PROJE\İETTPROJE2\İETTPROJE2\bin\Debug\İETTPROJE2.exe
+C:\Users\oguz-\Desktop\İETT PROJE\İETTPROJE2\İETTPROJE2\bin\Debug\İETTPROJE2.pdb
+C:\Users\oguz-\Desktop\İETT PROJE\İETTPROJE2\İETTPROJE2\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\oguz-\Desktop\İETT PROJE\İETTPROJE2\İETTPROJE2\bin\Debug\ExcelDataReader.dll
+C:\Users\oguz-\Desktop\İETT PROJE\İETTPROJE2\İETTPROJE2\bin\Debug\ExcelDataReader.xml
+C:\Users\oguz-\Desktop\İETT PROJE\İETTPROJE2\İETTPROJE2\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\oguz-\Desktop\İETT PROJE\İETTPROJE2\İETTPROJE2\obj\Debug\İETTPROJE2.csprojAssemblyReference.cache
+C:\Users\oguz-\Desktop\İETT PROJE\İETTPROJE2\İETTPROJE2\obj\Debug\İETTPROJE2.csproj.CoreCompileInputs.cache
+C:\Users\oguz-\Desktop\İETT PROJE\İETTPROJE2\İETTPROJE2\obj\Debug\İETTPROJE2.csproj.CopyComplete
+C:\Users\oguz-\Desktop\İETT PROJE\İETTPROJE2\İETTPROJE2\obj\Debug\İETTPROJE2.exe
+C:\Users\oguz-\Desktop\İETT PROJE\İETTPROJE2\İETTPROJE2\obj\Debug\İETTPROJE2.pdb
